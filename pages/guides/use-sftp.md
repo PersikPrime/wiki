@@ -38,4 +38,4 @@ description: Инструкция по использованию SFTP для д
 3. В FTP-клиентах нужно выбирать протокол SFTP или FTP, иначе не будет работать.
 
 [WinSCP]: https://winscp.net/eng/docs/lang:ru
-[FileZilla]: https://filezilla.ru
+[FileZilla]: https://filezilla-project.org/
