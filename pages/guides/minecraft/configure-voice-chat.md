@@ -18,3 +18,5 @@ description: 'Обучаемся корректной настройке и вы
 ## Настройка PlasmoVoice на сервере
 
 Для начала, скачайте плагин/мод PlasmoVoice для своей версии сборки и установите его на сервер в папку **plugins** (для плагиновых ядер) или **mods** (для модовых ядер).
+
+![Окно установщика Modrinth](/images/guides/minecraft/configure-voice-chat/plasmovoice-modrinth-1.png)
