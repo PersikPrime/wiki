@@ -55,6 +55,16 @@ description: 'Обучаемся корректной настройке и вы
 
 Вам потребуется заменить только **port** для базовой настройки. В строку bind_address можете ничего не вписывать, если вы не используете прокси.
 
+## Частые ошибки плагинов
+
+## Видео-версия гайда
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+    src="https://www.youtube.com/watch?v=X-vjIZFm88g" 
+    allowfullscreen>
+  </iframe>
+</div>
+
 Если вы всё же используете прокси (Velocity и т.п.), впишите в **bind_address** ваш IP-адрес сервера прокси, а в строку **port** впишите порт голосового чата выделенный на прокси.
 
 После завершения настройки сохраните файл и перезапустите Ваш сервер.
